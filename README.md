@@ -1,6 +1,6 @@
-# OOSD-CA1
+#  Books Management Application
 
-# Books Management Application
+# OOSD-CA1
 
 A simple Java Swing-based application to manage books, designed to provide an interactive GUI for adding, searching, and listing books, along with their details like ISBN, title, publication year, and category.
 
